@@ -7,11 +7,21 @@
     tools:context=".insertVal">
 
     <Button
+        android:id="@+id/themeButton2"
+        android:layout_width="141dp"
+        android:layout_height="66dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:text="Change Theme"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
         android:id="@+id/backButton"
         android:layout_width="141dp"
         android:layout_height="66dp"
-        android:layout_marginTop="18dp"
-        android:layout_marginEnd="19dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
         android:text="Back"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
