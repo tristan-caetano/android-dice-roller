@@ -17,7 +17,7 @@ The button at the top right will bring you to the custom dice roll screen.
 
 ## The second screen contains a text edit box in which you can input a number.
 Once the number is input you can press the roll button so that the app may choose a number between 1 and the number input, and display that number in the text view at the top of the screen.
-###pase note that if the number input is greater than the upper integer limit, or if the box is left blank, the app will crash if the roll button is pressed.*
+### *Please note that if the number input is greater than the upper integer limit, or if the box is left blank, the app will crash if the roll button is pressed.*
 
 The button at the top left changes all of the buttons on the current menu to a black and white theme, however, the theme reverts every time the screen is changed.
 
